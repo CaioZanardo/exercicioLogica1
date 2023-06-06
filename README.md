@@ -1,4 +1,4 @@
-# ExercicioLogica1
+# Exercicio Logica1
 
 Criar uma página em HTML 5 com o JS externo, conforme características abaixo:
 
